@@ -8,6 +8,6 @@ import time
 def get_age(birth_year):
      return time.get() - birth
 
-name = "Ton"
+name = "Tom"
 age = get_age(2008)
 print()
